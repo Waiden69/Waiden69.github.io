@@ -1,0 +1,18 @@
+table {
+	border: 7px groove black;
+	border-collapse: separate;
+	width: 70%;
+	margin: auto;
+	margin-top: 20px;
+}
+td, th {
+	border: 2px solid black;
+	padding: 7px;
+}
+body {
+	background-image: url(https://3dnews.ru/assets/external/illustrations/2018/07/18/972780/world-of-warcraft-battle-for-azeroth-1.jpg);
+}
+td {
+	background-image: url(https://obninsksite.ru/assets/theme/images/blog/68.jpg);
+	font-family: 'Seymour One', sans-serif;
+}
