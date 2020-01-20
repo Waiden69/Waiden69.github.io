@@ -13,7 +13,6 @@ body {
 	background-image: url(https://3dnews.ru/assets/external/illustrations/2018/07/18/972780/world-of-warcraft-battle-for-azeroth-1.jpg);
 }
 td {
-	background-image: url(https://obninsksite.ru/assets/theme/images/blog/68.jpg);
 	font-family: 'Seymour One', sans-serif;
 }
 #t5 {
@@ -21,4 +20,10 @@ td {
 }
 td:nth-child(2) {
 	background-color: blue;
+}
+#p1 {
+	background-color: pink;
+}
+#p2 {
+	background-color: yellow;
 }
