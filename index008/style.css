@@ -16,3 +16,9 @@ td {
 	background-image: url(https://obninsksite.ru/assets/theme/images/blog/68.jpg);
 	font-family: 'Seymour One', sans-serif;
 }
+#t5 {
+	color: red;
+}
+td:nth-child(2) {
+	background-color: blue;
+}
